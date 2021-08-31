@@ -1,0 +1,13 @@
+C:\Users\thomas-pratt\Documents\Other\SalaryPackage\SalaryPackage\bin\Debug\netcoreapp3.1\SalaryPackage.exe
+C:\Users\thomas-pratt\Documents\Other\SalaryPackage\SalaryPackage\bin\Debug\netcoreapp3.1\SalaryPackage.deps.json
+C:\Users\thomas-pratt\Documents\Other\SalaryPackage\SalaryPackage\bin\Debug\netcoreapp3.1\SalaryPackage.runtimeconfig.json
+C:\Users\thomas-pratt\Documents\Other\SalaryPackage\SalaryPackage\bin\Debug\netcoreapp3.1\SalaryPackage.runtimeconfig.dev.json
+C:\Users\thomas-pratt\Documents\Other\SalaryPackage\SalaryPackage\bin\Debug\netcoreapp3.1\SalaryPackage.dll
+C:\Users\thomas-pratt\Documents\Other\SalaryPackage\SalaryPackage\bin\Debug\netcoreapp3.1\SalaryPackage.pdb
+C:\Users\thomas-pratt\Documents\Other\SalaryPackage\SalaryPackage\obj\Debug\netcoreapp3.1\SalaryPackage.csprojAssemblyReference.cache
+C:\Users\thomas-pratt\Documents\Other\SalaryPackage\SalaryPackage\obj\Debug\netcoreapp3.1\SalaryPackage.AssemblyInfoInputs.cache
+C:\Users\thomas-pratt\Documents\Other\SalaryPackage\SalaryPackage\obj\Debug\netcoreapp3.1\SalaryPackage.AssemblyInfo.cs
+C:\Users\thomas-pratt\Documents\Other\SalaryPackage\SalaryPackage\obj\Debug\netcoreapp3.1\SalaryPackage.csproj.CoreCompileInputs.cache
+C:\Users\thomas-pratt\Documents\Other\SalaryPackage\SalaryPackage\obj\Debug\netcoreapp3.1\SalaryPackage.dll
+C:\Users\thomas-pratt\Documents\Other\SalaryPackage\SalaryPackage\obj\Debug\netcoreapp3.1\SalaryPackage.pdb
+C:\Users\thomas-pratt\Documents\Other\SalaryPackage\SalaryPackage\obj\Debug\netcoreapp3.1\SalaryPackage.genruntimeconfig.cache
